@@ -1,0 +1,8 @@
+requests
+openpyxl
+pyyaml
+unittestreport
+BeautifulReport
+pymysql
+faker
+ddt
